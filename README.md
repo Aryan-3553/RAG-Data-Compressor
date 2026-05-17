@@ -2,12 +2,6 @@
 
 A web-based and CLI interface for lossless data compression using RAG (Retrieval-Augmented Generation) and Large Language Models.
 
-Find more [here](https://nrpatel18.vercel.app/research)
-
-## 📄 Research Paper
-
-For detailed research explanation: [Research Proposal PDF](./Research%20Proposal.pdf)
-
 ## 📋 Features
 
 - **Instant Web Compression** - Fast gzip-based compression with beautiful UI
